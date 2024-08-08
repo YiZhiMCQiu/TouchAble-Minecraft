@@ -1,0 +1,11 @@
+{
+    "required": true,
+    "package": "cn.yizhimcqiu.mixin.client",
+    "compatibilityLevel": "JAVA_21",
+    "client": [
+        "IMinecraftClient"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
